@@ -1,6 +1,0 @@
-vless://92a94caf-64e3-4958-923a-9ef2b2e69838@de.dgmlk.com:2087?type=ws&security=tls&path=%2F&sni=de.dgmlk.com&flow=#DE_vl_ws_s
-vless://ec535acc-f77e-44e2-fcd1-48af9b9772c2@de.dgmlk.com:8880?type=ws&security=none&path=%2F#DE_vl_ws_ins
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJERV92bV93c19zIiwKICAiYWRkIjogImRlLmRnbWxrLmNvbSIsCiAgInBvcnQiOiA4NDQzLAogICJpZCI6ICI5MjQ1MmRjNi04N2FhLTQ4M2MtZDViYy03MzJlNmY5ODIyMTMiLAogICJhaWQiOiAwLAogICJuZXQiOiAid3MiLAogICJ0eXBlIjogIm5vbmUiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJ0bHMiCn0=
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJERV92bV93c19pbnMiLAogICJhZGQiOiAiZGUuZGdtbGsuY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImZjNjdhNGNlLTIyNjEtNGI5OS1jYTI2LTgyNmY4NzM5YTg1NCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
-vless://c0e6a8b9-d02d-4b0b-a149-59278c239625@de.andishab.ir:443?type=ws&security=tls&path=%2F&sni=de.andishab.ir&flow=#DE-Arvan-Vless-ws-tls
-vless://812a9736-adeb-4da4-9751-d7053bf5f1c5@de.dgmlk.com:80?type=ws&security=none&path=%2F#DE-Arvan-Vless-ws-Ins
